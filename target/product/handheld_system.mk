@@ -47,8 +47,10 @@ PRODUCT_PACKAGES += \
     DocumentsUI \
     DownloadProviderUi \
     EasterEgg \
+    Eleven \
     ExternalStorageProvider \
     FusedLocation \
+    Gallery2 \
     InputDevices \
     KeyChain \
     librs_jni \
